@@ -2,7 +2,7 @@
 
 **> whoami**
 
-`zack` &nbsp;|&nbsp; `42 student` &nbsp;|&nbsp; `future cyber & AI engineer`
+`zack` &nbsp;|&nbsp; `42 student (1337)` &nbsp;|&nbsp; `future cyber & AI engineer`
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+initializing+zack.exe;%3E+student+@+42;%3E+building+toward+cyber+%26+AI;%3E+stay+curious_+)
 
