@@ -1,6 +1,6 @@
 <div align="center">
 
-https://github.com/user-attachments/assets/16746edf-0667-499a-907d-0ad7881f745e
+<img src="https://raw.githubusercontent.com/zack/zack/main/matrix.gif" width="100%" alt="matrix rain" />
 
 **> whoami**
 
