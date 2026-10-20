@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zackthr/zackthr/main/matrix.gif" width="100%" alt="matrix rain" />
+<img width="800" height="450" alt="matrix" src="https://github.com/user-attachments/assets/411e9deb-5d8c-4859-a0d2-55a4b1d8ee23" />
 
 **> whoami**
 
@@ -28,7 +28,7 @@ I'm Zack, a student at 42 learning systems programming in C and building toward 
 ## `> ls projects/`
 
 - **[Libft](https://github.com/zack/MyLibft)**: C standard library, rebuilt from scratch
-- **Pritfnf**: short description
+- **[your next project]**: short description
 
 ## `> stats --live`
 
