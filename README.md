@@ -10,7 +10,7 @@
 
 ---
 
-## `> cat about.txt`
+## `> cat zackthr.txt`
 
 I'm Zack, a student at 42 learning systems programming in C and building toward a career in cybersecurity and AI engineering. I like understanding how things work at the lowest level, and I'm always looking for good people to build with.
 
@@ -37,4 +37,4 @@ I'm Zack, a student at 42 learning systems programming in C and building toward 
 ## `> contact`
 
 - LinkedIn: [your-link](https://linkedin.com/in/your-link)
-- Email: your@email.com
+- Email: zakariatahrieducation@gmail.com
