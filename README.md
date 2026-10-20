@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/zack/zack/main/matrix.gif" width="100%" alt="matrix rain" />
+<img src="https://raw.githubusercontent.com/zackthr/zackthr/main/matrix.gif" width="100%" alt="matrix rain" />
 
 **> whoami**
 
