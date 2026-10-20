@@ -1,16 +1,18 @@
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/zack/zack/main/matrix.gif" alt="matrix rain" width="100%" />
+
 **> whoami**
 
-`zack` &nbsp;|&nbsp; `42 student (1337)` &nbsp;|&nbsp; `future cyber & AI engineer`
-
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=%3E+initializing+zack.exe;%3E+student+@+42;%3E+building+toward+cyber+%26+AI;%3E+stay+curious_+)
+
+![Wave](https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00FF41&height=120&section=header&text=ZACK&fontColor=00FF41&fontSize=40&animation=fadeIn)
 
 </div>
 
 ---
 
-## `> cat zackthr.txt`
+## `> cat about.txt`
 
 I'm Zack, a student at 42 learning systems programming in C and building toward a career in cybersecurity and AI engineering. I like understanding how things work at the lowest level, and I'm always looking for good people to build with.
 
@@ -37,4 +39,4 @@ I'm Zack, a student at 42 learning systems programming in C and building toward 
 ## `> contact`
 
 - LinkedIn: [your-link](https://linkedin.com/in/your-link)
-- Email: zakariatahrieducation@gmail.com
+- Email: your@email.com
